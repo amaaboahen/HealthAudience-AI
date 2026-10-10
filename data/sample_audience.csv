@@ -1,0 +1,501 @@
+consumer_id,age_group,region,service_interest,preferred_channel,engagement_score,campaign_response
+SYN-0001,18–24,Northeast,Wellness programs,Email,81,No response
+SYN-0002,65+,Northeast,Specialist services,SMS,13,No response
+SYN-0003,25–34,Northeast,Specialist services,Email,27,No response
+SYN-0004,45–54,Midwest,Family care,SMS,69,Clicked
+SYN-0005,25–34,West,Wellness programs,Email,0,No response
+SYN-0006,35–44,Northeast,Preventive care,Email,97,Clicked
+SYN-0007,55–64,South,Preventive care,Social media,44,Clicked
+SYN-0008,18–24,South,Specialist services,Social media,48,No response
+SYN-0009,65+,Northeast,Preventive care,SMS,24,No response
+SYN-0010,25–34,Northeast,Family care,Email,10,No response
+SYN-0011,25–34,South,Wellness programs,Email,46,No response
+SYN-0012,65+,Northeast,Specialist services,SMS,87,Clicked
+SYN-0013,25–34,West,Family care,Email,31,Clicked
+SYN-0014,55–64,Midwest,Wellness programs,Social media,88,Registered
+SYN-0015,18–24,South,Family care,Email,29,No response
+SYN-0016,65+,South,Telehealth,SMS,72,Clicked
+SYN-0017,45–54,Midwest,Wellness programs,Email,82,Registered
+SYN-0018,35–44,West,Specialist services,Email,68,No response
+SYN-0019,55–64,West,Preventive care,Social media,17,Clicked
+SYN-0020,65+,Midwest,Family care,SMS,19,No response
+SYN-0021,45–54,South,Specialist services,Social media,76,No response
+SYN-0022,18–24,South,Wellness programs,Email,92,Clicked
+SYN-0023,18–24,South,Specialist services,Social media,58,Clicked
+SYN-0024,65+,South,Specialist services,SMS,13,No response
+SYN-0025,25–34,Northeast,Specialist services,Email,97,No response
+SYN-0026,35–44,Midwest,Preventive care,Email,46,Clicked
+SYN-0027,18–24,West,Preventive care,Phone,10,No response
+SYN-0028,25–34,West,Specialist services,Email,16,No response
+SYN-0029,45–54,Midwest,Specialist services,Social media,77,Registered
+SYN-0030,35–44,West,Wellness programs,SMS,91,Clicked
+SYN-0031,25–34,Midwest,Preventive care,Email,15,No response
+SYN-0032,55–64,Midwest,Preventive care,Email,29,No response
+SYN-0033,18–24,Northeast,Wellness programs,Email,29,No response
+SYN-0034,45–54,Midwest,Specialist services,Email,85,Registered
+SYN-0035,55–64,West,Telehealth,Social media,73,Registered
+SYN-0036,18–24,Northeast,Family care,Email,24,No response
+SYN-0037,18–24,Northeast,Preventive care,SMS,93,Clicked
+SYN-0038,25–34,Midwest,Telehealth,SMS,13,No response
+SYN-0039,35–44,West,Telehealth,Social media,23,No response
+SYN-0040,18–24,Northeast,Specialist services,Social media,70,Registered
+SYN-0041,25–34,Midwest,Family care,SMS,96,Clicked
+SYN-0042,18–24,Midwest,Family care,Email,51,No response
+SYN-0043,45–54,South,Family care,SMS,100,Registered
+SYN-0044,55–64,West,Telehealth,Email,100,Clicked
+SYN-0045,55–64,Northeast,Wellness programs,Email,7,No response
+SYN-0046,55–64,Midwest,Preventive care,Phone,64,No response
+SYN-0047,18–24,Northeast,Telehealth,SMS,23,Clicked
+SYN-0048,25–34,Northeast,Specialist services,Email,72,Registered
+SYN-0049,55–64,South,Wellness programs,Email,72,Registered
+SYN-0050,35–44,West,Telehealth,SMS,30,No response
+SYN-0051,18–24,Northeast,Family care,SMS,40,Clicked
+SYN-0052,18–24,Midwest,Specialist services,Email,12,Clicked
+SYN-0053,25–34,South,Wellness programs,Email,8,Clicked
+SYN-0054,35–44,Northeast,Specialist services,Email,90,Registered
+SYN-0055,35–44,Northeast,Preventive care,Social media,17,No response
+SYN-0056,55–64,Midwest,Wellness programs,Email,36,No response
+SYN-0057,55–64,West,Wellness programs,Phone,33,Clicked
+SYN-0058,65+,West,Wellness programs,Email,11,No response
+SYN-0059,65+,South,Telehealth,Social media,16,No response
+SYN-0060,55–64,Northeast,Preventive care,Email,54,Registered
+SYN-0061,55–64,Northeast,Wellness programs,SMS,19,No response
+SYN-0062,18–24,South,Wellness programs,Social media,16,No response
+SYN-0063,35–44,Midwest,Telehealth,SMS,5,No response
+SYN-0064,45–54,Midwest,Telehealth,Social media,71,Registered
+SYN-0065,45–54,Northeast,Telehealth,Social media,22,No response
+SYN-0066,65+,Midwest,Wellness programs,Email,52,Clicked
+SYN-0067,18–24,West,Telehealth,Email,48,Registered
+SYN-0068,35–44,Midwest,Telehealth,Email,44,No response
+SYN-0069,35–44,Northeast,Wellness programs,Email,42,Clicked
+SYN-0070,55–64,South,Preventive care,Email,86,Registered
+SYN-0071,55–64,South,Preventive care,Email,22,No response
+SYN-0072,35–44,West,Specialist services,Phone,93,No response
+SYN-0073,25–34,South,Preventive care,Social media,73,No response
+SYN-0074,65+,Midwest,Wellness programs,SMS,68,Registered
+SYN-0075,55–64,South,Preventive care,Social media,42,No response
+SYN-0076,65+,West,Wellness programs,SMS,39,No response
+SYN-0077,25–34,West,Family care,SMS,16,Clicked
+SYN-0078,55–64,South,Family care,SMS,78,No response
+SYN-0079,25–34,West,Specialist services,SMS,36,No response
+SYN-0080,45–54,Midwest,Specialist services,SMS,56,Registered
+SYN-0081,25–34,Northeast,Wellness programs,SMS,94,Registered
+SYN-0082,18–24,Midwest,Wellness programs,Email,42,No response
+SYN-0083,18–24,Midwest,Family care,SMS,3,No response
+SYN-0084,45–54,Midwest,Family care,SMS,58,No response
+SYN-0085,65+,Northeast,Preventive care,Social media,83,Clicked
+SYN-0086,55–64,West,Preventive care,SMS,89,Registered
+SYN-0087,45–54,Midwest,Family care,SMS,15,Registered
+SYN-0088,35–44,West,Specialist services,Social media,76,Registered
+SYN-0089,55–64,West,Telehealth,Social media,54,Clicked
+SYN-0090,25–34,South,Specialist services,SMS,33,No response
+SYN-0091,18–24,South,Telehealth,Email,56,No response
+SYN-0092,18–24,Midwest,Telehealth,Email,69,Clicked
+SYN-0093,25–34,Northeast,Family care,SMS,90,Clicked
+SYN-0094,18–24,Midwest,Family care,Email,53,Clicked
+SYN-0095,18–24,West,Family care,Email,89,Clicked
+SYN-0096,45–54,West,Specialist services,Social media,96,Clicked
+SYN-0097,25–34,West,Telehealth,Email,77,Clicked
+SYN-0098,35–44,West,Telehealth,Social media,49,Registered
+SYN-0099,55–64,Northeast,Family care,SMS,79,Registered
+SYN-0100,65+,West,Telehealth,Social media,10,No response
+SYN-0101,45–54,South,Telehealth,SMS,33,No response
+SYN-0102,35–44,West,Wellness programs,Social media,48,Clicked
+SYN-0103,55–64,Northeast,Wellness programs,Email,95,No response
+SYN-0104,18–24,Northeast,Telehealth,Email,83,No response
+SYN-0105,25–34,Midwest,Family care,SMS,19,No response
+SYN-0106,45–54,South,Wellness programs,Email,27,No response
+SYN-0107,65+,Northeast,Telehealth,Phone,95,No response
+SYN-0108,35–44,West,Family care,Phone,3,No response
+SYN-0109,65+,Midwest,Preventive care,SMS,75,Clicked
+SYN-0110,55–64,Northeast,Specialist services,Social media,87,Clicked
+SYN-0111,65+,South,Preventive care,SMS,54,No response
+SYN-0112,45–54,Northeast,Family care,Phone,53,Clicked
+SYN-0113,65+,Midwest,Family care,Email,58,Clicked
+SYN-0114,35–44,West,Family care,SMS,83,Registered
+SYN-0115,35–44,Midwest,Preventive care,Email,34,No response
+SYN-0116,45–54,West,Wellness programs,Email,96,Registered
+SYN-0117,45–54,Midwest,Wellness programs,Social media,23,No response
+SYN-0118,65+,South,Specialist services,Email,76,Registered
+SYN-0119,25–34,West,Family care,SMS,10,No response
+SYN-0120,65+,West,Family care,Social media,60,No response
+SYN-0121,45–54,Midwest,Wellness programs,SMS,28,No response
+SYN-0122,55–64,South,Family care,Phone,70,Clicked
+SYN-0123,65+,West,Wellness programs,Email,45,No response
+SYN-0124,25–34,South,Preventive care,Social media,92,Registered
+SYN-0125,25–34,Midwest,Telehealth,Social media,88,Clicked
+SYN-0126,55–64,South,Preventive care,Social media,75,Clicked
+SYN-0127,25–34,South,Preventive care,Social media,46,No response
+SYN-0128,18–24,South,Telehealth,SMS,5,No response
+SYN-0129,18–24,South,Family care,SMS,13,No response
+SYN-0130,35–44,West,Preventive care,Social media,6,No response
+SYN-0131,55–64,Northeast,Telehealth,Email,9,No response
+SYN-0132,18–24,Midwest,Preventive care,SMS,38,No response
+SYN-0133,55–64,Midwest,Specialist services,Email,76,Registered
+SYN-0134,55–64,West,Wellness programs,SMS,38,No response
+SYN-0135,18–24,Midwest,Telehealth,Email,94,No response
+SYN-0136,25–34,Northeast,Telehealth,Email,30,No response
+SYN-0137,45–54,South,Preventive care,Email,76,Registered
+SYN-0138,45–54,Northeast,Telehealth,Phone,89,Registered
+SYN-0139,55–64,Midwest,Family care,Email,80,Clicked
+SYN-0140,35–44,Midwest,Preventive care,Email,19,No response
+SYN-0141,65+,South,Family care,Email,76,Registered
+SYN-0142,45–54,South,Specialist services,SMS,89,Clicked
+SYN-0143,18–24,West,Wellness programs,SMS,76,No response
+SYN-0144,65+,Northeast,Wellness programs,SMS,29,No response
+SYN-0145,45–54,West,Wellness programs,Email,22,No response
+SYN-0146,45–54,Northeast,Family care,Email,81,Clicked
+SYN-0147,18–24,Midwest,Wellness programs,SMS,85,Clicked
+SYN-0148,45–54,Northeast,Family care,Email,84,Clicked
+SYN-0149,45–54,Northeast,Specialist services,SMS,14,No response
+SYN-0150,35–44,West,Family care,Social media,66,No response
+SYN-0151,25–34,South,Family care,Social media,70,Clicked
+SYN-0152,65+,Midwest,Telehealth,Email,3,No response
+SYN-0153,18–24,Midwest,Preventive care,SMS,52,No response
+SYN-0154,45–54,South,Specialist services,Social media,19,No response
+SYN-0155,45–54,Midwest,Family care,SMS,61,No response
+SYN-0156,55–64,Midwest,Preventive care,Email,76,Registered
+SYN-0157,35–44,South,Preventive care,Email,53,No response
+SYN-0158,55–64,West,Telehealth,SMS,75,Clicked
+SYN-0159,55–64,West,Family care,Phone,42,Registered
+SYN-0160,25–34,West,Telehealth,Social media,89,Clicked
+SYN-0161,65+,West,Family care,Email,40,Clicked
+SYN-0162,25–34,West,Preventive care,Email,83,Registered
+SYN-0163,18–24,West,Preventive care,SMS,42,Clicked
+SYN-0164,25–34,West,Telehealth,Email,92,Registered
+SYN-0165,35–44,West,Preventive care,Social media,33,Clicked
+SYN-0166,45–54,South,Family care,Social media,68,No response
+SYN-0167,25–34,South,Telehealth,Social media,8,No response
+SYN-0168,65+,Northeast,Family care,Email,12,No response
+SYN-0169,18–24,South,Preventive care,Email,3,No response
+SYN-0170,25–34,West,Specialist services,SMS,18,No response
+SYN-0171,18–24,West,Specialist services,SMS,22,No response
+SYN-0172,25–34,Midwest,Family care,SMS,74,Clicked
+SYN-0173,18–24,West,Wellness programs,SMS,85,No response
+SYN-0174,35–44,South,Family care,SMS,56,Clicked
+SYN-0175,25–34,West,Family care,Email,38,No response
+SYN-0176,55–64,South,Wellness programs,Email,45,Clicked
+SYN-0177,35–44,Northeast,Specialist services,Social media,50,Clicked
+SYN-0178,55–64,West,Wellness programs,Social media,6,No response
+SYN-0179,25–34,Midwest,Specialist services,Email,45,Clicked
+SYN-0180,65+,Midwest,Preventive care,Phone,98,Registered
+SYN-0181,45–54,Northeast,Specialist services,Email,39,No response
+SYN-0182,35–44,West,Telehealth,Email,37,No response
+SYN-0183,55–64,South,Telehealth,Email,46,Clicked
+SYN-0184,35–44,South,Preventive care,SMS,61,No response
+SYN-0185,25–34,West,Specialist services,Email,96,Registered
+SYN-0186,35–44,Northeast,Family care,Email,1,No response
+SYN-0187,55–64,West,Wellness programs,Email,33,No response
+SYN-0188,55–64,South,Specialist services,Email,3,No response
+SYN-0189,65+,South,Family care,Email,59,No response
+SYN-0190,35–44,West,Preventive care,Email,4,Clicked
+SYN-0191,45–54,West,Wellness programs,SMS,17,No response
+SYN-0192,45–54,Midwest,Family care,SMS,69,Clicked
+SYN-0193,45–54,South,Preventive care,SMS,78,Clicked
+SYN-0194,25–34,South,Preventive care,Phone,56,No response
+SYN-0195,35–44,Northeast,Family care,Email,82,Registered
+SYN-0196,18–24,Midwest,Specialist services,Phone,58,No response
+SYN-0197,25–34,Midwest,Specialist services,Email,42,Clicked
+SYN-0198,25–34,Midwest,Telehealth,Email,70,No response
+SYN-0199,18–24,South,Telehealth,Phone,76,Clicked
+SYN-0200,18–24,Northeast,Telehealth,Email,22,No response
+SYN-0201,55–64,South,Preventive care,Email,30,No response
+SYN-0202,45–54,Northeast,Preventive care,SMS,94,Registered
+SYN-0203,55–64,Northeast,Family care,SMS,65,Registered
+SYN-0204,65+,South,Family care,SMS,5,No response
+SYN-0205,45–54,West,Preventive care,SMS,61,Registered
+SYN-0206,18–24,South,Specialist services,Email,9,No response
+SYN-0207,65+,South,Family care,Phone,79,Clicked
+SYN-0208,55–64,West,Preventive care,Social media,58,No response
+SYN-0209,65+,Midwest,Family care,SMS,83,Clicked
+SYN-0210,45–54,West,Family care,Social media,43,No response
+SYN-0211,65+,South,Wellness programs,Phone,40,Clicked
+SYN-0212,18–24,Northeast,Preventive care,Email,60,No response
+SYN-0213,35–44,Midwest,Specialist services,Email,94,Registered
+SYN-0214,35–44,Northeast,Family care,Email,71,Registered
+SYN-0215,45–54,Northeast,Wellness programs,SMS,96,Clicked
+SYN-0216,55–64,Midwest,Telehealth,SMS,73,Clicked
+SYN-0217,35–44,South,Preventive care,Social media,13,No response
+SYN-0218,55–64,Northeast,Specialist services,Phone,54,Clicked
+SYN-0219,18–24,Midwest,Wellness programs,Social media,34,No response
+SYN-0220,35–44,Northeast,Telehealth,Social media,43,Clicked
+SYN-0221,18–24,Midwest,Preventive care,Email,51,Clicked
+SYN-0222,45–54,West,Wellness programs,Email,48,No response
+SYN-0223,55–64,Northeast,Preventive care,Email,41,Clicked
+SYN-0224,65+,Northeast,Wellness programs,SMS,6,No response
+SYN-0225,45–54,West,Wellness programs,Email,77,Clicked
+SYN-0226,45–54,Northeast,Wellness programs,SMS,44,Clicked
+SYN-0227,65+,South,Preventive care,Email,67,Registered
+SYN-0228,18–24,Midwest,Wellness programs,Phone,7,No response
+SYN-0229,35–44,South,Wellness programs,Email,97,Clicked
+SYN-0230,25–34,Midwest,Family care,SMS,55,No response
+SYN-0231,65+,South,Preventive care,Email,71,Registered
+SYN-0232,18–24,West,Preventive care,Social media,55,Clicked
+SYN-0233,45–54,West,Wellness programs,Email,73,No response
+SYN-0234,25–34,West,Wellness programs,Email,41,Clicked
+SYN-0235,45–54,West,Specialist services,Email,31,Clicked
+SYN-0236,35–44,Midwest,Wellness programs,Social media,95,No response
+SYN-0237,18–24,Midwest,Wellness programs,Email,81,Registered
+SYN-0238,25–34,Midwest,Preventive care,Email,82,No response
+SYN-0239,25–34,Northeast,Telehealth,Phone,77,Registered
+SYN-0240,55–64,West,Specialist services,SMS,59,Registered
+SYN-0241,65+,South,Telehealth,SMS,41,Clicked
+SYN-0242,35–44,South,Specialist services,Email,80,Clicked
+SYN-0243,45–54,West,Preventive care,Email,39,Clicked
+SYN-0244,65+,Northeast,Specialist services,SMS,9,No response
+SYN-0245,55–64,Northeast,Family care,Phone,74,Clicked
+SYN-0246,35–44,West,Specialist services,Email,24,No response
+SYN-0247,35–44,Northeast,Specialist services,SMS,13,No response
+SYN-0248,45–54,West,Specialist services,SMS,90,No response
+SYN-0249,35–44,West,Family care,Social media,47,Clicked
+SYN-0250,65+,South,Preventive care,Email,6,No response
+SYN-0251,35–44,South,Specialist services,Social media,49,No response
+SYN-0252,65+,Midwest,Wellness programs,Email,74,Registered
+SYN-0253,45–54,Midwest,Specialist services,Social media,84,No response
+SYN-0254,45–54,South,Telehealth,SMS,71,Registered
+SYN-0255,65+,Northeast,Family care,SMS,94,No response
+SYN-0256,25–34,Midwest,Wellness programs,Phone,39,No response
+SYN-0257,25–34,Midwest,Preventive care,Email,28,No response
+SYN-0258,55–64,Northeast,Wellness programs,Social media,64,Clicked
+SYN-0259,45–54,Midwest,Telehealth,Email,76,Registered
+SYN-0260,25–34,West,Preventive care,SMS,79,Registered
+SYN-0261,45–54,South,Family care,Email,30,No response
+SYN-0262,45–54,Midwest,Wellness programs,SMS,100,Clicked
+SYN-0263,45–54,South,Family care,SMS,56,No response
+SYN-0264,25–34,Midwest,Wellness programs,Email,20,No response
+SYN-0265,55–64,Northeast,Specialist services,Social media,47,No response
+SYN-0266,25–34,South,Family care,Phone,97,No response
+SYN-0267,18–24,Midwest,Family care,Social media,55,Registered
+SYN-0268,18–24,West,Specialist services,Email,53,No response
+SYN-0269,35–44,Midwest,Preventive care,Email,10,No response
+SYN-0270,65+,South,Telehealth,Email,91,Clicked
+SYN-0271,65+,Midwest,Family care,SMS,60,No response
+SYN-0272,18–24,South,Telehealth,Social media,10,No response
+SYN-0273,55–64,West,Preventive care,Social media,93,Clicked
+SYN-0274,18–24,Midwest,Family care,SMS,15,No response
+SYN-0275,18–24,West,Specialist services,SMS,8,No response
+SYN-0276,25–34,Midwest,Wellness programs,SMS,73,Registered
+SYN-0277,55–64,West,Telehealth,SMS,30,No response
+SYN-0278,18–24,Northeast,Family care,Social media,46,No response
+SYN-0279,35–44,South,Preventive care,Email,49,No response
+SYN-0280,65+,Northeast,Specialist services,Social media,30,No response
+SYN-0281,35–44,South,Telehealth,Social media,5,No response
+SYN-0282,45–54,Midwest,Telehealth,Email,89,Registered
+SYN-0283,18–24,South,Telehealth,Email,58,No response
+SYN-0284,35–44,South,Specialist services,Email,5,Clicked
+SYN-0285,35–44,Northeast,Telehealth,Email,60,Registered
+SYN-0286,65+,South,Wellness programs,Email,6,No response
+SYN-0287,65+,West,Family care,Email,51,No response
+SYN-0288,45–54,South,Specialist services,Email,88,No response
+SYN-0289,18–24,West,Specialist services,Phone,54,No response
+SYN-0290,35–44,Northeast,Preventive care,Email,37,No response
+SYN-0291,55–64,West,Telehealth,SMS,57,No response
+SYN-0292,65+,South,Specialist services,Phone,5,No response
+SYN-0293,18–24,West,Wellness programs,SMS,7,No response
+SYN-0294,18–24,Midwest,Specialist services,SMS,20,No response
+SYN-0295,18–24,Midwest,Wellness programs,Email,16,Clicked
+SYN-0296,55–64,Midwest,Family care,Phone,4,No response
+SYN-0297,18–24,Midwest,Specialist services,Email,97,Clicked
+SYN-0298,25–34,Northeast,Preventive care,Social media,35,No response
+SYN-0299,55–64,Northeast,Wellness programs,Social media,49,Clicked
+SYN-0300,55–64,South,Family care,Email,27,No response
+SYN-0301,45–54,Midwest,Family care,Phone,9,Clicked
+SYN-0302,65+,South,Preventive care,SMS,40,No response
+SYN-0303,25–34,Midwest,Wellness programs,SMS,38,No response
+SYN-0304,25–34,Midwest,Family care,Email,25,No response
+SYN-0305,45–54,Midwest,Specialist services,Social media,47,No response
+SYN-0306,65+,West,Specialist services,SMS,50,No response
+SYN-0307,18–24,Midwest,Wellness programs,SMS,73,Clicked
+SYN-0308,55–64,South,Telehealth,Social media,87,Registered
+SYN-0309,55–64,Midwest,Telehealth,SMS,81,Registered
+SYN-0310,18–24,Midwest,Wellness programs,Email,7,No response
+SYN-0311,25–34,South,Specialist services,Social media,90,Registered
+SYN-0312,25–34,South,Telehealth,SMS,32,No response
+SYN-0313,55–64,Midwest,Specialist services,Phone,11,No response
+SYN-0314,55–64,South,Specialist services,Email,84,Registered
+SYN-0315,18–24,South,Telehealth,Social media,10,No response
+SYN-0316,18–24,West,Specialist services,Email,81,Registered
+SYN-0317,25–34,West,Wellness programs,SMS,61,Clicked
+SYN-0318,45–54,West,Family care,SMS,20,No response
+SYN-0319,35–44,South,Wellness programs,Phone,18,No response
+SYN-0320,55–64,Northeast,Wellness programs,Email,47,No response
+SYN-0321,25–34,Midwest,Preventive care,Email,57,Registered
+SYN-0322,45–54,Midwest,Telehealth,Social media,78,Registered
+SYN-0323,35–44,Midwest,Telehealth,SMS,92,Clicked
+SYN-0324,35–44,West,Preventive care,Email,63,No response
+SYN-0325,25–34,Midwest,Specialist services,Email,58,No response
+SYN-0326,55–64,West,Wellness programs,SMS,63,Clicked
+SYN-0327,25–34,South,Wellness programs,Social media,55,No response
+SYN-0328,18–24,Midwest,Wellness programs,SMS,51,No response
+SYN-0329,45–54,South,Specialist services,SMS,64,No response
+SYN-0330,45–54,South,Wellness programs,SMS,12,No response
+SYN-0331,25–34,West,Specialist services,Email,18,No response
+SYN-0332,35–44,West,Specialist services,SMS,91,Registered
+SYN-0333,25–34,South,Specialist services,Email,65,No response
+SYN-0334,65+,South,Specialist services,Email,78,Registered
+SYN-0335,45–54,South,Family care,Social media,68,No response
+SYN-0336,18–24,West,Specialist services,Email,86,Registered
+SYN-0337,65+,Northeast,Specialist services,SMS,88,Registered
+SYN-0338,55–64,Midwest,Preventive care,SMS,100,No response
+SYN-0339,65+,West,Telehealth,Social media,80,Clicked
+SYN-0340,65+,Northeast,Telehealth,Email,73,Clicked
+SYN-0341,45–54,Midwest,Family care,SMS,19,No response
+SYN-0342,65+,Northeast,Telehealth,SMS,60,Clicked
+SYN-0343,45–54,West,Wellness programs,Phone,84,Clicked
+SYN-0344,35–44,South,Wellness programs,SMS,68,No response
+SYN-0345,35–44,South,Telehealth,Phone,31,Registered
+SYN-0346,35–44,Midwest,Family care,Email,98,Clicked
+SYN-0347,35–44,South,Preventive care,SMS,92,Clicked
+SYN-0348,35–44,Midwest,Wellness programs,Email,50,Registered
+SYN-0349,35–44,West,Wellness programs,Social media,10,No response
+SYN-0350,35–44,South,Telehealth,Email,68,Clicked
+SYN-0351,25–34,Northeast,Specialist services,Email,30,No response
+SYN-0352,45–54,South,Family care,Email,12,No response
+SYN-0353,55–64,Midwest,Family care,SMS,0,Clicked
+SYN-0354,45–54,Midwest,Wellness programs,Email,60,Clicked
+SYN-0355,18–24,Midwest,Specialist services,Social media,98,Registered
+SYN-0356,25–34,West,Telehealth,Phone,4,No response
+SYN-0357,45–54,Midwest,Wellness programs,Social media,50,No response
+SYN-0358,55–64,Northeast,Wellness programs,Email,72,Registered
+SYN-0359,55–64,West,Telehealth,Social media,69,Clicked
+SYN-0360,18–24,South,Telehealth,Social media,24,No response
+SYN-0361,25–34,Northeast,Wellness programs,Social media,91,Clicked
+SYN-0362,25–34,Midwest,Specialist services,Social media,96,Registered
+SYN-0363,55–64,South,Preventive care,SMS,54,No response
+SYN-0364,45–54,South,Telehealth,Email,17,No response
+SYN-0365,35–44,South,Wellness programs,SMS,57,Clicked
+SYN-0366,65+,South,Telehealth,Email,33,No response
+SYN-0367,25–34,West,Specialist services,Phone,39,Clicked
+SYN-0368,35–44,Northeast,Wellness programs,Email,98,Clicked
+SYN-0369,45–54,Midwest,Family care,Social media,17,No response
+SYN-0370,65+,West,Specialist services,Social media,53,Clicked
+SYN-0371,25–34,Northeast,Specialist services,SMS,97,Registered
+SYN-0372,55–64,Northeast,Preventive care,Social media,9,Clicked
+SYN-0373,55–64,Midwest,Telehealth,Email,25,No response
+SYN-0374,65+,Midwest,Specialist services,SMS,14,Clicked
+SYN-0375,18–24,West,Telehealth,SMS,57,Clicked
+SYN-0376,55–64,West,Wellness programs,Social media,7,No response
+SYN-0377,65+,Midwest,Specialist services,Email,0,No response
+SYN-0378,18–24,Northeast,Preventive care,Phone,89,Clicked
+SYN-0379,45–54,Midwest,Telehealth,Social media,36,Registered
+SYN-0380,45–54,South,Family care,SMS,82,Registered
+SYN-0381,45–54,Northeast,Specialist services,Email,48,Registered
+SYN-0382,25–34,West,Specialist services,Email,15,Registered
+SYN-0383,18–24,South,Family care,SMS,0,No response
+SYN-0384,45–54,Midwest,Telehealth,SMS,68,No response
+SYN-0385,65+,Northeast,Preventive care,Social media,24,No response
+SYN-0386,18–24,Midwest,Telehealth,Email,98,Clicked
+SYN-0387,55–64,Northeast,Telehealth,Social media,57,No response
+SYN-0388,55–64,Midwest,Preventive care,Email,29,Registered
+SYN-0389,65+,South,Specialist services,SMS,29,No response
+SYN-0390,25–34,South,Telehealth,Phone,41,Clicked
+SYN-0391,35–44,South,Preventive care,SMS,52,Clicked
+SYN-0392,25–34,West,Specialist services,SMS,94,Registered
+SYN-0393,65+,West,Specialist services,Email,82,Clicked
+SYN-0394,35–44,West,Telehealth,Social media,19,No response
+SYN-0395,35–44,Midwest,Family care,Phone,28,No response
+SYN-0396,55–64,Midwest,Family care,Email,53,No response
+SYN-0397,18–24,West,Wellness programs,Email,82,Registered
+SYN-0398,18–24,South,Family care,SMS,24,No response
+SYN-0399,25–34,Midwest,Family care,Email,9,Clicked
+SYN-0400,18–24,Midwest,Telehealth,Phone,38,No response
+SYN-0401,45–54,Midwest,Specialist services,Social media,96,Clicked
+SYN-0402,55–64,South,Wellness programs,Email,30,No response
+SYN-0403,35–44,South,Wellness programs,SMS,45,Clicked
+SYN-0404,65+,West,Wellness programs,Phone,12,No response
+SYN-0405,18–24,Midwest,Telehealth,Email,52,Clicked
+SYN-0406,55–64,West,Wellness programs,Email,74,Clicked
+SYN-0407,55–64,Midwest,Family care,SMS,48,Registered
+SYN-0408,35–44,West,Family care,SMS,43,Clicked
+SYN-0409,25–34,Midwest,Specialist services,SMS,45,Registered
+SYN-0410,65+,Northeast,Specialist services,Email,69,Clicked
+SYN-0411,18–24,Northeast,Family care,Email,85,Registered
+SYN-0412,65+,Midwest,Preventive care,Email,8,No response
+SYN-0413,55–64,West,Family care,Email,7,No response
+SYN-0414,18–24,Northeast,Specialist services,Social media,52,Clicked
+SYN-0415,18–24,West,Telehealth,Email,36,No response
+SYN-0416,25–34,Midwest,Specialist services,SMS,19,Clicked
+SYN-0417,45–54,Northeast,Wellness programs,Phone,34,No response
+SYN-0418,65+,Midwest,Wellness programs,SMS,31,Clicked
+SYN-0419,65+,Northeast,Preventive care,SMS,83,Clicked
+SYN-0420,18–24,Northeast,Telehealth,Email,60,Clicked
+SYN-0421,35–44,Northeast,Specialist services,Phone,82,Clicked
+SYN-0422,55–64,West,Wellness programs,Email,88,No response
+SYN-0423,55–64,Northeast,Telehealth,Phone,35,No response
+SYN-0424,55–64,Midwest,Family care,Phone,26,No response
+SYN-0425,25–34,West,Specialist services,Email,72,Registered
+SYN-0426,65+,Northeast,Specialist services,Social media,17,No response
+SYN-0427,45–54,Midwest,Preventive care,Email,12,No response
+SYN-0428,45–54,South,Preventive care,SMS,76,Registered
+SYN-0429,45–54,Midwest,Wellness programs,SMS,57,No response
+SYN-0430,65+,West,Preventive care,Social media,23,No response
+SYN-0431,65+,Northeast,Preventive care,Email,31,No response
+SYN-0432,65+,Midwest,Family care,Email,100,No response
+SYN-0433,35–44,West,Wellness programs,Social media,0,No response
+SYN-0434,25–34,West,Family care,SMS,11,No response
+SYN-0435,18–24,Northeast,Wellness programs,SMS,13,No response
+SYN-0436,35–44,West,Preventive care,Email,100,Clicked
+SYN-0437,65+,Midwest,Specialist services,SMS,10,No response
+SYN-0438,25–34,South,Wellness programs,Email,21,No response
+SYN-0439,45–54,South,Family care,Email,21,No response
+SYN-0440,35–44,Midwest,Family care,SMS,46,No response
+SYN-0441,25–34,South,Preventive care,Phone,13,No response
+SYN-0442,45–54,South,Family care,Email,79,Registered
+SYN-0443,55–64,Midwest,Wellness programs,Email,83,Registered
+SYN-0444,45–54,South,Telehealth,Phone,25,Clicked
+SYN-0445,65+,West,Specialist services,Social media,37,No response
+SYN-0446,45–54,South,Preventive care,Phone,35,No response
+SYN-0447,25–34,Northeast,Family care,Phone,69,No response
+SYN-0448,65+,Northeast,Family care,SMS,37,No response
+SYN-0449,25–34,South,Telehealth,Social media,38,No response
+SYN-0450,45–54,West,Specialist services,SMS,9,No response
+SYN-0451,45–54,Northeast,Wellness programs,Social media,88,Registered
+SYN-0452,65+,Northeast,Preventive care,Social media,76,Registered
+SYN-0453,25–34,Northeast,Specialist services,Phone,45,Clicked
+SYN-0454,35–44,West,Preventive care,Email,51,No response
+SYN-0455,65+,Midwest,Family care,Email,65,Clicked
+SYN-0456,55–64,Midwest,Wellness programs,Phone,86,Clicked
+SYN-0457,45–54,Northeast,Preventive care,Social media,37,No response
+SYN-0458,35–44,South,Family care,Social media,44,Clicked
+SYN-0459,45–54,Northeast,Family care,Social media,44,Clicked
+SYN-0460,35–44,Northeast,Preventive care,Email,8,No response
+SYN-0461,65+,Midwest,Telehealth,SMS,13,No response
+SYN-0462,55–64,West,Family care,Email,42,No response
+SYN-0463,25–34,West,Family care,Email,23,No response
+SYN-0464,45–54,West,Family care,Email,25,No response
+SYN-0465,65+,Northeast,Specialist services,Email,35,Clicked
+SYN-0466,35–44,South,Telehealth,SMS,23,No response
+SYN-0467,55–64,South,Specialist services,Email,62,No response
+SYN-0468,35–44,South,Family care,SMS,14,Clicked
+SYN-0469,35–44,Northeast,Telehealth,Email,90,Clicked
+SYN-0470,25–34,South,Telehealth,SMS,14,No response
+SYN-0471,55–64,West,Family care,Email,17,No response
+SYN-0472,65+,Midwest,Specialist services,Email,88,Clicked
+SYN-0473,35–44,West,Specialist services,Email,23,No response
+SYN-0474,45–54,Midwest,Telehealth,Social media,1,Clicked
+SYN-0475,65+,West,Family care,SMS,64,No response
+SYN-0476,45–54,Midwest,Preventive care,SMS,56,Clicked
+SYN-0477,35–44,Northeast,Wellness programs,Email,28,No response
+SYN-0478,45–54,West,Specialist services,SMS,99,Clicked
+SYN-0479,55–64,South,Specialist services,Social media,34,No response
+SYN-0480,45–54,Midwest,Family care,Email,92,Registered
+SYN-0481,25–34,South,Preventive care,SMS,96,Clicked
+SYN-0482,45–54,Northeast,Telehealth,Email,11,No response
+SYN-0483,35–44,West,Telehealth,SMS,88,Registered
+SYN-0484,18–24,South,Specialist services,Email,26,No response
+SYN-0485,65+,South,Wellness programs,SMS,41,Registered
+SYN-0486,65+,Northeast,Telehealth,Phone,65,Clicked
+SYN-0487,35–44,Midwest,Telehealth,Email,7,No response
+SYN-0488,65+,West,Family care,Email,31,No response
+SYN-0489,45–54,West,Family care,Email,80,Registered
+SYN-0490,18–24,West,Specialist services,Social media,98,Registered
+SYN-0491,45–54,West,Wellness programs,SMS,47,Registered
+SYN-0492,18–24,West,Wellness programs,Social media,93,Registered
+SYN-0493,25–34,West,Telehealth,SMS,50,No response
+SYN-0494,35–44,Midwest,Specialist services,Social media,36,No response
+SYN-0495,18–24,Northeast,Preventive care,SMS,87,Registered
+SYN-0496,18–24,Midwest,Family care,SMS,2,Registered
+SYN-0497,25–34,Midwest,Wellness programs,Email,54,Registered
+SYN-0498,18–24,South,Wellness programs,Email,35,No response
+SYN-0499,25–34,Northeast,Family care,SMS,83,Registered
+SYN-0500,25–34,West,Preventive care,Social media,96,No response
