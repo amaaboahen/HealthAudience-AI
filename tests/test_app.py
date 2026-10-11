@@ -7,6 +7,10 @@ def test_dashboard_filters_and_exports():
     app = AppTest.from_file("app.py", default_timeout=30).run()
     assert not app.exception
     assert app.metric[0].value == "500"
+    assert app.metric[1].value == "50.2/100"
+    assert app.metric[1].label == "Mean engagement"
+    assert any(expander.label == "About This Demo" for expander in app.expander)
+    assert any("Understand your audience. Personalize your outreach." in element.value for element in app.markdown)
     assert len(app.get("plotly_chart")) == 6
     assert len(app.get("download_button")) == 3
     app.multiselect[0].set_value(["West"]).run()

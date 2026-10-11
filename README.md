@@ -19,12 +19,14 @@ On a local desktop, use the address printed by Streamlit. In a cloud environment
 
 ## Features
 
-- Navy-and-teal dashboard, four KPI cards, six interactive charts, and sidebar filters.
+- Editorial dashboard with warm ivory, electric violet, coral, and lavender accents; four responsive KPI cards, six interactive charts, and sidebar filters.
 - 500 reproducible synthetic records (seed 42).
 - Three explainable audience segments and deterministic recommendations.
 - Synthetic CSV uploads with schema validation, helpful errors, and a template.
 - Filtered CSV downloads and summary reports with filter context and limitations.
 - Empty audience handling and small-sample cautions.
+
+KPI cards adapt to the available content width: four columns on wide desktops, two on narrower layouts, and one on phones. Labels and values wrap instead of truncating. Charts use native wrapping headings, readable charcoal text, and matching categorical colors. The expandable **About This Demo** section explains the synthetic data and descriptive methodology without interrupting the dashboard header. Hover effects respect reduced-motion preferences, and keyboard focus remains visible.
 
 ## CSV contract
 
